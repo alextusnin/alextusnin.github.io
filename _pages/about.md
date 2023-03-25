@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Hello, stranger!
 Nice to see you here. Here I plan to share my research, teachning experience, and everything else that I find fascinating. I will be happy if you find something interesting or useful here.  
 
