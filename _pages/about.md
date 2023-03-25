@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 # Hello, stranger!
-Nice to see you here. Here I plan to share my research, teachning experience, and everything else that I find fascinating. I will be happy if you find something interesting or useful here.  
+Nice to see you here. Here I plan to share my research, teaching experiences, and anything else I find fascinating. I will be happy if you find something interesting or useful here.  
 
 # About myself
-I am fascinated by physics and how math helps us to describe and understand physical phenomena in its elegant way. Now, my interest lies in the field of nonlinear dynamics. In the [lab](https://www.epfl.ch/labs/k-lab/), where I do my PhD, I study nonlinear dynamics of dissipative Kerr solitons (special type of optical waves that self-organize thanks to the dispersion and nonlinearity) in small optical resonators. With my collegue, Alexey Tikan, we develop an open-source software [PyCORe](https://github.com/ElKosto/PyCORe) for simulating this dynamics in arrays of coupled resonators. I equally enjoy teaching and public outreach of my research, so if you have any questions about physics or math, you are always welcome to drop me a message.
+I am fascinated by physics and how mathematics helps us to describe and understand physical phenomena in an elegant way. Now my interest lies in the field of nonlinear dynamics. In the [lab](https://www.epfl.ch/labs/k-lab/), where I am doing my Ph.D., I study the nonlinear dynamics of dissipative Kerr solitons (a special type of optical wave that self-organizes due to the balance between dispersion and nonlinearity) in small optical resonators. With my colleague Alexey Tikan, we are developing an open-source software [PyCORe](https://github.com/ElKosto/PyCORe) to simulate this dynamics in arrays of coupled resonators. I also enjoy teaching and communicating my research to the public, so if you have any questions about physics or mathematics, feel free to drop me a line.
 
 
-Aside from science, I also play bass in our band \emph{Diable Rabattable}. Check us out on [youtube](https://www.youtube.com/channel/UCP-yRxC9Ahc-A2kceefwP0Q) and [instagram](https://www.instagram.com/diablerabattable/).
+Besides science, I also play bass in our band *Diable Rabattable*. Check us out on [youtube](https://www.youtube.com/channel/UCP-yRxC9Ahc-A2kceefwP0Q) and [instagram](https://www.instagram.com/diablerabattable/).
 
 
