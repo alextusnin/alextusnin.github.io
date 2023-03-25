@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello, stranger!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hello, stranger!
 Nice to see you here. Here I plan to share my research, teaching experiences, and anything else I find fascinating. I will be happy if you find something interesting or useful here.  
 
 # About myself
