@@ -44,7 +44,7 @@ Skills
   * Design and testing of integrated photonic circuits
   * Optical frequency comb generation
 * Languages
-  * English (prefoessional level)
+  * English (professional level)
   * French (cerified B2 level)
   * Russian (native)
 
